@@ -1,0 +1,47 @@
+body {
+    background-image: url("social-media-3846597.svg");
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 60px;
+    padding: 0 10px;
+    margin: 30px 740px;
+    border: transparent 2px;
+    border-radius: 30px;
+    background: steelblue;
+}
+
+.form {
+    padding-right: 550px;
+    padding-left: 550px;
+    text-align: center;
+}
+
+.formContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardBody {
+    background-color: mediumturquoise;
+}
+
+.membersDiv {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.members {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.memCard {
+    background-color: lightsteelblue;
+}
